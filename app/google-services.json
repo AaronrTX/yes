@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "468066397622",
+    "project_id": "realtimedemo-111b5",
+    "storage_bucket": "realtimedemo-111b5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468066397622:android:24791b5fe7a24ece42a517",
+        "android_client_info": {
+          "package_name": "com.example.realtimedemo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJQWzWD8uvvMe1Au0hGcr6cdxk5CqoFFw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
